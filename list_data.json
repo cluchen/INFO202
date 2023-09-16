@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Berkeley Social Club",
+			"Location": "Downtown",
+			"Price": "$$",
+			"Rating": "4.0/5"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "La Note",
+			"Location": "Downtown",
+			"Price": "$$",
+			"Rating": "3.9/5"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Pyeong Chang Tofu",
+			"Location": "West",
+			"Price": "$$",
+			"Rating": "4.3/5"
 		}
 	]
 }
